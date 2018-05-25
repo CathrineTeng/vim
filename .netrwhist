@@ -1,4 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/tengyan/Projects/indigo'
 let g:netrw_dirhist_2='/home/tengyan/.vim'
+let g:netrw_dirhist_3='/home/tengyan/Workspace/DjangoSpace/tango/tango_with_django_project'
+let g:netrw_dirhist_4='/home/tengyan/Workspace/DjangoSpace/rango/tango_with_django_project'
